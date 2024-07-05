@@ -1,6 +1,6 @@
 
 
-# UUMathMath
+# RealmPuzzle
 
 
 
@@ -14,17 +14,17 @@ Welcome to download and use
 
 
 
-UUMathMath Privacy Policy
+RealmPuzzle Privacy Policy
 
 Overview
-This privacy policy describes the information collected by "UUMathMath" (“we,” “us” or “our”) through our mobile applications and website and how we use that information.
+This privacy policy describes the information collected by "RealmPuzzle" (“we,” “us” or “our”) through our mobile applications and website and how we use that information.
 
 
-How does "UUMathMath" use the personal information that it collects?
+How does "RealmPuzzle" use the personal information that it collects?
 We do not collect or store any personal information.
 
 
-Does "UUMathMath" share the personal information that it collects?
+Does "RealmPuzzle" share the personal information that it collects?
 We do not collect or share any of your personal information.
 
 
@@ -42,4 +42,4 @@ We may amend this privacy policy from time to time. Use of information we collec
 Contact us ---  haichiqwnmi@gmail.com
 
 
-If you have any questions or concerns regarding this Privacy Policy, please send a mail to "UUMathMath".
+If you have any questions or concerns regarding this Privacy Policy, please send a mail to "RealmPuzzle".
